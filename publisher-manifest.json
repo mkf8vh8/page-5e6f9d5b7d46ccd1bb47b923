@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "773a4efa47b5abbb070ae194",
+  "owner": "mkf8vh8",
+  "repo": "page-5e6f9d5b7d46ccd1bb47b923",
+  "title": "万达加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5e6f9d5b7d46ccd1bb47b923",
+      "a": "万达加速",
+      "b": "稳定全球clash加速器",
+      "entity": "万达加速",
+      "brand": "万达加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f20dfa4ff087c6a010f6d8fb02da4f38328c0fe9d614c1dda97173dadddda18a",
+      "content": {
+        "primary_entity": "万达加速",
+        "keyword1": "万达加速",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，导入订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅就能开始连接。",
+          "AI_CLOSING_TITLE": "开始使用万达加速",
+          "AI_DESCRIPTION": "，面向需要稳定全球线路的用户，提供按月或按年订阅的多种套餐。基础版适合轻度浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。选择套餐后按客户端说明导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度挑选合适的套餐。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备；团队版每月1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "手机、电脑、平板可按系统分别安装适配客户端，同一账号在套餐设备数内使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更省，基础版年付¥150，旗舰版年付¥350，团队版年付¥850。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数规划",
+          "AI_FEATURE_TITLE_3": "按月或按年订阅",
+          "AI_GUIDE_INTRO": "先确定使用场景，再完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "万达加速提供按月与按年订阅的全球线路方案，覆盖从轻度浏览到多设备协作的不同需求，可搭配Clash类客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "稳定全球线路，多设备订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至团队",
+          "AI_HIGHLIGHT_2": "月付灵活，年付更省",
+          "AI_HIGHLIGHT_3": "手机电脑均可配置订阅",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，可按设备数与流量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与订阅周期，确认是否满足当前网络需求。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅信息，完成节点选择与连接测试。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "万达加速 全球线路订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时，新设备登录会挤掉最早连接的设备。",
+          "AI_FAQ_QUESTION_2": "套餐流量用完后会怎样？",
+          "AI_FAQ_ANSWER_2": "当月流量耗尽后，连接会暂停至下个计费周期开始。如需继续使用，可以考虑升级到更高流量的套餐档位。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，适合短期使用；年付一次性支付全年费用，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，比月付节省约两个月费用。",
+          "AI_FAQ_QUESTION_4": "IPLC 专线和普通节点有什么不同？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线走独立通道，不经过公共互联网出口，延迟和抖动更低，适合对实时性要求高的联机游戏和视频会议场景。",
+          "AI_FAQ_QUESTION_5": "更换设备后需要重新配置吗？",
+          "AI_FAQ_ANSWER_5": "需要的，每台设备都需要单独安装客户端并导入订阅。只要在线设备数没有超出套餐上限，旧设备可以保留配置，也可以移除后释放名额。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "r32ojd.cn",
+    "host": "r32ojd.cn"
+  },
+  "file_hashes": {
+    "index.html": "ff9dc8eeda400349d55b7a2b1439e443d240af193e546b51431252398e860125",
+    "sitemap.xml": "56d8641182d61f69ca472add5d01bc703746d40fd0eefe77890ddde6dc2fe3a9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9a864dc11f1848f2da85c78ecf34c6467c3d9998aa6deeeb984564c5f62f4535",
+    "robots.txt": "9d0b73b86d949e8e301208a04a0703cdd0a5d6eae681234b6c83b24fb2766e0e",
+    "c1e8204f3115cb15f991d22c3b648e5e.txt": "de2cdcaf819ea5de1cba84c0b4a6a8d21403602e50b2beee5828062ad9babd09"
+  },
+  "revision": "33df7599918e601eae7dd0c4a00b73d60b2cab6bb53c39142e714f9c8317a3f2"
+}
